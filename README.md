@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on [ARWEB Sistemas](http://www.arwebsistemas.com/) as a Full Stack Developer 🚀
 
-<br>
 
 ### Some statistics 🔥
 ---
